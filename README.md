@@ -1,142 +1,117 @@
 <div align="center">
-  <!-- Header com animação -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Olá,%20eu%20sou%20o%20Matheus!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <!-- Header limpo e elegante -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:98FB98&height=200&section=header&text=Matheus&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
   
-  <!-- GIF de programação -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="margin: 20px 0;"/>
+  <br><br>
   
-  <!-- Badges animados -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi,+eu+sou+o+Matheus!;Desenvolvedor+em+Crescimento;+Apaixonado+por+Código;+Sempre+Aprendendo!;" />
+  <!-- Nome e título simples -->
+  <h1 style="color: #2E86AB; font-size: 48px; margin: 20px 0;">
+    👋 Olá, eu sou o Matheus!
+  </h1>
+  
+  <h3 style="color: #666; font-weight: 300; margin-bottom: 40px;">
+    Desenvolvedor apaixonado por tecnologia
+  </h3>
 </div>
 
-<!-- Seção sobre mim -->
+<br><br>
+
+<!-- Seção sobre mim - bem clean -->
 <div align="center">
-  <h2 style="color: #ff6b6b;">🚀 Sobre mim</h2>
+  <h2 style="color: #2E86AB; border-bottom: 2px solid #87CEEB; padding-bottom: 10px; margin-bottom: 30px;">
+    📖 Sobre mim
+  </h2>
   
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-        <strong>Atualmente trabalhando em:</strong>
-      </td>
-      <td>Projetos incríveis com React e Node.js</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-        <strong>Aprendendo:</strong>
-      </td>
-      <td>TypeScript, Docker, AWS</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-        <strong>Objetivo 2025:</strong>
-      </td>
-      <td>Contribuir mais para projetos open source</td>
-    </tr>
-  </table>
+  <p style="font-size: 18px; line-height: 1.6; max-width: 600px; margin: 0 auto; color: #555;">
+    🚀 Sempre em busca de novos conhecimentos<br>
+    💡 Apaixonado por resolver problemas com código<br>
+    🌱 Crescendo a cada dia como desenvolvedor<br>
+    🎯 Focado em criar soluções incríveis
+  </p>
 </div>
 
-<br>
+<br><br>
 
-<!-- Tecnologias -->
+<!-- Tecnologias - ícones limpos -->
 <div align="center">
-  <h2 style="color: #4ecdc4;">🛠️ Tecnologias e Ferramentas</h2>
+  <h2 style="color: #2E86AB; border-bottom: 2px solid #87CEEB; padding-bottom: 10px; margin-bottom: 30px;">
+    🛠️ Tecnologias
+  </h2>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-    <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,sass,tailwind" />
-    <br>
-    <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,express,django,spring" />
-    <br>
-    <!-- Database & Tools -->
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,git,figma,vscode" />
+  <div style="margin: 30px 0;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode&theme=light" alt="Tecnologias" />
   </div>
 </div>
 
-<br>
+<br><br>
 
-<!-- Estatísticas do GitHub -->
+<!-- Estatísticas do GitHub - tema claro -->
 <div align="center">
-  <h2 style="color: #45b7d1;">📊 Estatísticas do GitHub</h2>
+  <h2 style="color: #2E86AB; border-bottom: 2px solid #87CEEB; padding-bottom: 10px; margin-bottom: 30px;">
+    📊 Estatísticas
+  </h2>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <!-- Card de estatísticas -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+    <!-- Stats card -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2E86AB&icon_color=87CEEB&text_color=333333"/>
     
-    <!-- Card de linguagens -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=ffffff"/>
-  </div>
-  
-  <!-- Streak -->
-  <div style="margin: 20px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USERNAME]&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ecdc4&sideLabels=ffffff&dates=ffffff"/>
-  </div>
-  
-  <!-- Gráfico de contribuições 3D -->
-  <div style="margin: 20px 0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USERNAME]&bg_color=0D1117&color=ffffff&line=4ecdc4&point=ff6b6b&area=true&hide_border=true"/>
+    <!-- Languages card -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=ffffff&title_color=2E86AB&text_color=333333"/>
   </div>
 </div>
 
-<br>
+<br><br>
 
-<!-- Projetos em destaque -->
+<!-- Espaço reservado para projetos -->
 <div align="center">
-  <h2 style="color: #96ceb4;">⭐ Projetos em Destaque</h2>
+  <h2 style="color: #2E86AB; border-bottom: 2px solid #87CEEB; padding-bottom: 10px; margin-bottom: 30px;">
+    🚀 Meus Projetos
+  </h2>
   
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Projeto 1 -->
-    <a href="https://github.com/[SEU_USERNAME]/[PROJETO1]">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[PROJETO1]&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" />
+  <div style="background: #f8f9fa; padding: 40px; border-radius: 10px; margin: 20px; border: 2px dashed #87CEEB;">
+    <h3 style="color: #666; font-weight: 300;">
+      ⚡ Em breve...
+    </h3>
+    <p style="color: #888; font-size: 16px;">
+      Espaço reservado para meus projetos incríveis!<br>
+      Fique ligado que em breve vou colocar aqui meus trabalhos mais legais 🔥
+    </p>
+  </div>
+</div>
+
+<br><br>
+
+<!-- Contatos - simples e limpo -->
+<div align="center">
+  <h2 style="color: #2E86AB; border-bottom: 2px solid #87CEEB; padding-bottom: 10px; margin-bottom: 30px;">
+    📫 Vamos conversar!
+  </h2>
+  
+  <div style="margin: 30px 0;">
+    <a href="https://instagram.com/_mh.lira" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram" />
     </a>
     
-    <!-- Projeto 2 -->
-    <a href="https://github.com/[SEU_USERNAME]/[PROJETO2]">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USERNAME]&repo=[PROJETO2]&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" />
+    <a href="mailto:maheus2007lira@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
     </a>
   </div>
 </div>
 
-<br>
+<br><br>
 
-<!-- Redes sociais e contato -->
+<!-- Footer limpo -->
 <div align="center">
-  <h2 style="color: #feca57;">🌐 Vamos nos conectar!</h2>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:98FB98,100:87CEEB&height=150&section=footer"/>
   
-  <div style="margin: 20px 0;">
-    <a href="https://instagram.com/_mh.lira" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="mailto:maheus2007lira@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://[SEU_PORTFOLIO]" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-  </div>
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <h3>🐍 Minhas contribuições sendo devoradas:</h3>
-  <img src="https://github.com/[SEU_USERNAME]/[SEU_USERNAME]/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Visitors counter -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME]&color=ff6b6b&style=for-the-badge&label=VISITANTES" alt="Contador de visitantes" />
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-</div>
-
-<!-- Mensagem final -->
-<div align="center">
-  <h3>💭 "O código é poesia em movimento" 💭</h3>
-  <p><em>Sempre em busca de novos desafios e oportunidades de crescimento!</em></p>
+  <br>
+  
+  <!-- Contador de visitas discreto -->
+  <img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME]&color=87CEEB&style=flat-square&label=visitantes" alt="Visitantes" style="margin-top: 20px;"/>
+  
+  <br><br>
+  
+  <p style="color: #888; font-style: italic; font-size: 14px;">
+    "O primeiro passo para realizar o impossível é acreditar que é possível" 💫
+  </p>
 </div>
