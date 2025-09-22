@@ -1,6 +1,3 @@
-# README de Perfil GitHub com HTML
-
-```html
 <div align="center">
   <!-- Header com animação -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Olá,%20eu%20sou%20o%20Matheus!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
@@ -143,31 +140,3 @@
   <h3>💭 "O código é poesia em movimento" 💭</h3>
   <p><em>Sempre em busca de novos desafios e oportunidades de crescimento!</em></p>
 </div>
-```
-
-## 📝 Instruções para usar:
-
-1. **Substitua os placeholders:**
-   - `[SEU_NOME]` - Seu nome
-   - `[SEU_USERNAME]` - Seu username do GitHub
-   - `[SEU_LINKEDIN]` - Seu perfil do LinkedIn
-   - `[SEU_INSTAGRAM]` - Seu Instagram
-   - `[SEU_EMAIL]` - Seu email
-   - `[SEU_PORTFOLIO]` - Link do seu portfólio
-   - `[PROJETO1]` e `[PROJETO2]` - Nomes dos repositórios que quer destacar
-
-2. **Para ativar a animação da cobrinha:**
-   - Vá em Actions no seu repositório
-   - Crie um workflow com o arquivo `.github/workflows/snake.yml`
-
-3. **Personalize as cores e seções** conforme seu gosto!
-
-## 🎨 Recursos incluídos:
-- ✨ Header animado com gradiente
-- 🔥 Badges dinâmicos com typing animation
-- 📊 Estatísticas completas do GitHub
-- 🛠️ Ícones de tecnologias
-- 🐍 Animação da cobrinha
-- 📱 Design responsivo
-- 🎯 Contador de visitantes
-- 🌈 Esquema de cores moderno
