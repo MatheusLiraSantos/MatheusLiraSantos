@@ -107,7 +107,8 @@
 <br>
 
 ---
-
+<div align="center">
+  
 ### 💭 Quote do Dia
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -117,5 +118,7 @@
 <br>
 
 <div align="center">
+    
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  
 </div>
