@@ -52,10 +52,10 @@
 
 ### 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusLiraSantos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusLiraSantos&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLiraSantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -69,26 +69,7 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### 🌟 Projetos em Destaque
-
-<a href="https://github.com/SEU_USERNAME/projeto1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=projeto1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SEU_USERNAME/projeto2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=projeto2&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=MatheusLiraSantos&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -101,18 +82,9 @@
 <div align="center">
 
 ### 📫 Vamos Conectar?
-
-<a href="https://linkedin.com/in/seu-perfil" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:matheus@email.com">
+<a href="mailto:matheus2007lira@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://seuportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://twitter.com/seu-twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 </div>
@@ -120,20 +92,6 @@
 <br>
 
 ---
-
-<br>
-
-<div align="center">
-
-### 🎯 Visitor Count
-
-<img src="https://profile-counter.glitch.me/SEU_USERNAME/count.svg" />
-
-</div>
-
-<br>
-
-<div align="center">
 
 ### 💭 Quote do Dia
 
