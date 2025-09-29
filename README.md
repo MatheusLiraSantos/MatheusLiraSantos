@@ -12,19 +12,34 @@
   
   ### 🚀 Sobre Mim
   
-  ```javascript
-  const matheus = {
-      code: ["JavaScript", "Python", "TypeScript", "Java"],
-      technologies: {
-          frontEnd: ["React", "Next.js", "Vue", "HTML/CSS"],
-          backEnd: ["Node.js", "Express", "Django", "FastAPI"],
-          databases: ["MongoDB", "PostgreSQL", "MySQL"],
-          tools: ["Docker", "Git", "VS Code", "Figma"]
-      },
-      currentFocus: "Construindo aplicações escaláveis e elegantes",
-      funFact: "Debugo melhor depois da meia-noite 🌙"
-  };
-  ```
+<table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/💻_Código-JavaScript%20|%20Python%20|%20TypeScript-blue?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/🎨_Front--End-React%20|%20Next.js%20|%20Vue-61DAFB?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/⚙️_Back--End-Node.js%20|%20Express%20|%20Django-339933?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/💾_Databases-MongoDB%20|%20PostgreSQL%20|%20MySQL-4479A1?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/🔧_Tools-Docker%20|%20Git%20|%20VS%20Code-2496ED?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+  <br>
   
 </div>
 
