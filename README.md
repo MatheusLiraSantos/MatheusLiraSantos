@@ -15,9 +15,9 @@ Começando minha jornada no mundo da programação!
 
 ### 📫 Como me encontrar
 
-- 💼 LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- 📧 Email: seu.email@exemplo.com
-- 🐦 Twitter: [@seu_twitter](https://twitter.com/seu_twitter)
+- 💼 LinkedIn: (https://www.linkedin.com/in/matheus-lira-71b24436a)
+- 📧 Email: Matheusliraifsp@gmail.com
+- 📷 Instagram: @_mh.lira
 
 ---
 
